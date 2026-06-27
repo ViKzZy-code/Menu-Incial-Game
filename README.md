@@ -12,7 +12,6 @@ Um menu inicial de jogo desenvolvido com **HTML**, **CSS** e **JavaScript**, cri
 
 * Navegação entre opções do menu utilizando as teclas **seta para cima** e **seta para baixo**.
 * Destaque visual da opção selecionada.
-* Controle de seleção por meio de eventos de teclado.
 
 Este projeto foi desenvolvido no início da minha jornada de programação, com foco em aprender conceitos fundamentais como manipulação de eventos, lógica de interação com o usuário e organização de elementos na interface. Apesar de ser um projeto simples, foi uma importante prática para compreender como criar experiências interativas utilizando JavaScript puro.
 
